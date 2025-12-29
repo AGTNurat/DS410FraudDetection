@@ -2,8 +2,7 @@
 
 **Course:** DS/CMPSC 410  
 **Semester:** Fall 2025  
-**Team Name:** AGT Fraud Detection Team  
-**Team Members:** Tarun Kumar Srikumar, Zhixuan Alex Zhou, Yashwanth Velayudham, Nihal Ravindra, Rhianna Ferreira, Yongqi Sheng, Abhilash Katigiri
+
 
 ---
 
@@ -62,17 +61,8 @@ The following visuals illustrate the model's performance and the benefits of sca
 
 ---
 
-## 7. Division of Labor
-| Task | Assigned To |
-| :--- | :--- |
-| **Data Acquisition & Preprocessing** | Yashwanth Velayudham, Abhilash Katigiri |
-| **Exploratory Data Analysis (EDA)** | Yongqi Sheng, Zhixuan Alex Zhou |
-| **Feature Engineering** | Rhianna Ferreira, Tarun Kumar Srikumar |
-| **Model Building & Training** | Tarun Kumar Srikumar, Zhixuan Alex Zhou |
-| **Evaluation & Visualization** | Nihal Ravindra, Rhianna Ferreira, Yashwanth Velayudham |
-| **Documentation & Integration** | Nihal Ravindra, Abhilash Katigiri |
 
-## 8. Work Plan & Timeline
+## 7. Work Plan & Timeline
 * **Weeks 1-2:** Data acquisition and synthetic scaling.
 * **Weeks 3-4:** EDA and problem identification (imbalance).
 * **Weeks 5-6:** Feature engineering and model building.
@@ -80,13 +70,13 @@ The following visuals illustrate the model's performance and the benefits of sca
 * **Week 8:** Pipeline refinement.
 * **Weeks 9-10:** Documentation and final report.
 
-## 9. Potential Challenges & Mitigation
+## 8. Potential Challenges & Mitigation
 * **Data Volume:** Mitigated by sampling subsets for local testing before scaling to the cluster.
 * **Imbalance:** Mitigated using oversampling and class-weighting techniques.
 * **Resources:** Optimized Spark jobs to run within cluster limits during off-peak hours.
 
 ---
 
-## 10. Repository Link
+## 9. Repository Link
 Full code, notebooks, and visualizations can be found here:  
 [https://github.com/AGTNurat/DS410FraudDetection](https://github.com/AGTNurat/DS410FraudDetection)
