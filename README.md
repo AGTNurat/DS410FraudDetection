@@ -53,8 +53,11 @@ The project successfully demonstrated that distributed processing significantly 
 ## 6. Visual Summaries
 The following visuals illustrate the model's performance and the benefits of scalability:
 
+<img width="2367" height="1469" alt="fig1_boxplot" src="https://github.com/user-attachments/assets/3ee20c7f-3d0b-4f11-ac9f-4f18bad7342b" />
 
+<img width="1643" height="1255" alt="fig2_pie" src="https://github.com/user-attachments/assets/af4673f1-af6d-42c1-bfa0-c134e7b5dba6" />
 
+<img width="3568" height="1187" alt="fig3_hist_amount" src="https://github.com/user-attachments/assets/8b7c1c08-3714-4a38-8aea-165d50cab01f" />
 
 
 ---
