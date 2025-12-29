@@ -51,12 +51,14 @@ The project successfully demonstrated that distributed processing significantly 
 
 ## 6. Visual Summaries
 The following visuals illustrate the model's performance and the benefits of scalability:
+<img width="505" height="293" alt="DS410 VISUAL 6" src="https://github.com/user-attachments/assets/7a84440d-f2f9-4354-bcaa-8a121c810948" />
+<img width="969" height="291" alt="DS410 VISUAL 7" src="https://github.com/user-attachments/assets/db67d852-7e9b-4fb1-90a0-566de4c6d44f" />
+<img width="642" height="365" alt="DS410 VISUAL 1" src="https://github.com/user-attachments/assets/5168c1d3-c8d7-4992-8000-b70fd722c1e9" />
+<img width="469" height="302" alt="DS410 VISUAL 2" src="https://github.com/user-attachments/assets/6ccc9007-7a56-4e46-ad30-5fa33c9a676c" />
+<img width="976" height="290" alt="DS410 VISUAL 3" src="https://github.com/user-attachments/assets/fb996fb6-320b-4097-9460-21920fd89d21" />
+<img width="945" height="295" alt="DS410 VISUAL 4" src="https://github.com/user-attachments/assets/d6217007-35e5-49cc-a32f-4d755ea6e1f2" />
+<img width="917" height="712" alt="DS410 VISUAL 5" src="https://github.com/user-attachments/assets/74b4a011-3b5a-4d10-80c8-45ee9ba50dca" />
 
-<img width="2367" height="1469" alt="fig1_boxplot" src="https://github.com/user-attachments/assets/3ee20c7f-3d0b-4f11-ac9f-4f18bad7342b" />
-
-<img width="1643" height="1255" alt="fig2_pie" src="https://github.com/user-attachments/assets/af4673f1-af6d-42c1-bfa0-c134e7b5dba6" />
-
-<img width="3568" height="1187" alt="fig3_hist_amount" src="https://github.com/user-attachments/assets/8b7c1c08-3714-4a38-8aea-165d50cab01f" />
 
 
 ---
